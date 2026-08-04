@@ -1,4 +1,5 @@
-<img width="720" height="480" alt="backgroundimage" src="https://github.com/user-attachments/assets/e25c244c-f6e6-4ceb-8ff1-d08a96061e49" />
+<img width="100" height="250" alt="backgroundimage" src="https://github.com/user-attachments/assets/e25c244c-f6e6-4ceb-8ff1-d08a96061e49" />
+
 # Setting up PostgreSQL in Docker with Adminer
 
 > A clean local database setup using Docker Compose — with environment variables, health checks, and a browser UI out of the box.
