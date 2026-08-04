@@ -121,8 +121,8 @@ Navigate to `http://localhost:8080` and fill in the connection form:
 |----------|----------------------------|
 | System   | PostgreSQL                 |
 | Server   | `db` — not localhost       |
-| Username | kavinn                     |
-| Password | passcode@2005              |
+| Username | doremonn                   |
+| Password | doremonnn1940              |
 | Database | postgres                   |
 
 > **Why `db` and not `localhost`?** Inside Docker's network, services reach each other by their service name — not by `localhost`, which would point to Adminer's own container. The hostname `db` resolves to your Postgres container's internal IP automatically.
