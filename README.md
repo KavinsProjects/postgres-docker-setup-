@@ -1,6 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/postgres-blue)
 ![Static Badge](https://img.shields.io/badge/SQL-white)
 ![Static Badge](https://img.shields.io/badge/Docker-blue)
+![Static Badge](https://img.shields.io/badge/MIT-yellow)
+
 
 <img width="500" height="310" alt="backgroundimage" src="https://github.com/user-attachments/assets/e25c244c-f6e6-4ceb-8ff1-d08a96061e49" />
 
